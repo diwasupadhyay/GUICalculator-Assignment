@@ -11,3 +11,4 @@ A simple classic GUI Calculator built with **Node.js**, **Express**, and **EJS**
 1. Install dependencies: `npm install`
 2. Start the server: `npm start`
 3. Open `http://localhost:3000` in your browser
+4. Test it
